@@ -1,9 +1,14 @@
+head {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
 .header {
     display: flex;
-    background-color: rgb(53, 94, 94);
+    background-color: rgb(130, 195, 236);
     text-align: justify;
     border-radius: 10px;
-
+    font-family: 'Poppins', sans-serif;
 
 
 }
@@ -20,5 +25,24 @@
     margin-left: 100px;
     text-align: right;
     height: 40px;
+
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-banner {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 60%;
+}
 
 }
