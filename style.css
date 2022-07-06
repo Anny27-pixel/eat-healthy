@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    background-color: rgb(53, 94, 94);
+    text-align: justify;
+    border-radius: 10px;
+
+
+
+}
+
+.header div h1 #img {
+    height: 50px;
+    width: 50px;
+    text-align: left;
+    margin-left: 0 auto;
+
+}
+
+.header h1 {
+    margin-left: 100px;
+    text-align: right;
+    height: 40px;
+
+}
